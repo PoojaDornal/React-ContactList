@@ -1,0 +1,29 @@
+/* Styling for the nav-bar */
+nav{
+    background-color: black;  
+    height: 7vh;
+    align-items: center;
+    padding-left: 10px;
+    display: flex;
+    justify-content: left;
+    text-decoration: none;
+}
+/* heading */
+h2{
+    color: white;
+    text-decoration: none;
+    
+}
+Link{
+    text-decoration: none;
+}
+
+.heading{
+    font-weight: 500;
+    text-decoration: none;
+    
+}
+.heading:hover{
+    color: rgba(69, 69, 246, 0.712);
+    
+}
